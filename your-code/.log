@@ -1,0 +1,47 @@
+2022-11-22 14:13:07,105 [6052] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-22 14:13:07,105 [6052] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-22 14:13:07,105 [6052] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-22 14:13:07,108 [6052] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-22 14:13:07,108 [6052] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-22 14:13:07,109 [6052] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-22 14:14:14,653 [6052] INFO     numexpr.utils:159: [JupyterRequire] NumExpr defaulting to 4 threads.
+2022-11-22 14:29:17,776 [6052] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_6052/1969661923.py:1: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  mu_hat = salaries[salaries['Salary or Hourly'] == 'Hourly'].mean()
+
+2022-11-22 14:30:38,661 [6052] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_6052/3737428696.py:1: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  std_hat =  salaries[salaries['Salary or Hourly'] == 'Hourly'].std()
+
+2022-11-22 14:30:44,014 [6052] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_6052/1428808502.py:1: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  std_hat =  salaries[salaries['Salary or Hourly'] == 'Hourly'].std()
+
+2022-11-22 14:30:52,584 [6052] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_6052/975491621.py:1: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  mu_hat = salaries[salaries['Salary or Hourly'] == 'Hourly'].mean()
+
+2022-11-22 14:33:44,751 [6052] WARNING  py.warnings:109: [JupyterRequire] /Users/rociomoreno/opt/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2022-11-22 14:36:39,225 [6052] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_6052/501815652.py:1: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  mu_hat = salaries[salaries['Salary or Hourly'] == 'Hourly'].mean()
+
+2022-11-22 14:36:45,330 [6052] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_6052/1146790839.py:1: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  std_hat =  salaries[salaries['Salary or Hourly'] == 'Hourly'].std()
+
+2022-11-22 15:05:47,838 [6220] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-22 15:05:47,838 [6220] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-22 15:05:47,838 [6220] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-22 15:05:47,841 [6220] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-22 15:05:47,842 [6220] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-22 15:05:47,842 [6220] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-22 15:06:09,738 [6220] INFO     numexpr.utils:159: [JupyterRequire] NumExpr defaulting to 4 threads.
+2022-11-22 15:06:49,319 [6220] WARNING  py.warnings:109: [JupyterRequire] /Users/rociomoreno/opt/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2022-11-22 15:08:33,614 [6220] WARNING  py.warnings:109: [JupyterRequire] /Users/rociomoreno/opt/anaconda3/lib/python3.9/site-packages/scipy/stats/stats.py:114: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  a = np.asarray(a)
+
+2022-11-22 16:06:52,263 [6220] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-22 16:06:52,263 [6220] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-22 16:06:52,263 [6220] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-22 16:06:52,266 [6220] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-22 16:06:52,267 [6220] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-22 16:06:52,268 [6220] DEBUG    root:97: [JupyterRequire] Registering comm targets.
