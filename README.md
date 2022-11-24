@@ -12,10 +12,10 @@ If you are interested in dive deeper into hypothesis tests, you can complete `bo
 
 - `main.ipynb` (required)
 - `bonus.ipynb` (optional)
-
+fwefwef
 ## Submission
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+Upon completion, add your deliverablesdfdfd to git. Then commit git and push your branch to the remote.
 
 ## Resources
 
